@@ -45,7 +45,7 @@ async function start() {
           completed: false
         },
         {
-          title: 'Прочитать 20 страниц книги',
+          title: 'Протестировать автодеплой',
           completed: true
         }
       ]);
